@@ -9,7 +9,7 @@ USAGE:
 The required parameters are broken into 5 chunk.
 merchant,user, url, amount and options.
 
-merchant would have these properties. i'm giving a sample
+An example of using this package.
 
       var merchant = {
         store_id: 'xxx',

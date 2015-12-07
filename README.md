@@ -23,12 +23,12 @@ An example of using this package.
       };
       
       var user = {
-        name:'faysal',
-        email:'faysal@yahoo.com',
-        address:'Wari',
-        city:'dhaka',
-        states:'dhaka',
-        post:1203,
+        name:'name',
+        email:'user@yahoo.com',
+        address:'xxx',
+        city:'zzzz',
+        states:'qqq',
+        post:111,
         country:'BD',
         phone:123
 
